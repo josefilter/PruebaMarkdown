@@ -1,7 +1,6 @@
 # PruebaMarkdown
 
 Para poner titulo
-
 	# titulo1 <h1>
 	## titulo2 <h2>
 	### titulo3 <h3>
