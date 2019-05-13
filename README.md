@@ -35,7 +35,7 @@ Enlace
 	[texto que queramos](URL)
 
 Imagen
-	![texto que quetamos](ruta de la imagen)
+	![texto que queramos](ruta de la imagen)
 
 Para indicar que es codigo
 	~~~
