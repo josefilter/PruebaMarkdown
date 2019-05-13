@@ -1,12 +1,12 @@
 # PruebaMarkdown
 
 Para poner titulo
-	# titulo1 <h1>
-	## titulo2 <h2>
-	### titulo3 <h3>
-	#### titulo4 <h4>
-	##### titulo5 <h5>
-	###### titulo6 <h6>
+	# titulo1
+	## titulo2
+	### titulo3
+	#### titulo4
+	##### titulo5
+	###### titulo6
 
 Para poner citas
 	> Esto es una cita
