@@ -42,7 +42,7 @@ Enlace
 
 Imagen
 
-![texto que queramos](ruta de la imagen)
+![texto que queramos](ruta_de_la_imagen)
 
 Para indicar que es codigo
 
